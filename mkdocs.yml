@@ -1,1 +1,63 @@
-site_name: My Docs
+site_name: Code and Core University
+site_description: From Zero to Confident Programmer
+site_author: Mohan G.C.
+site_url: https://mohangc07.github.io/code-and-core-university/
+
+theme:
+  name: material
+  language: en
+
+  palette:
+    - scheme: default
+      primary: blue
+      accent: indigo
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.tabs.link
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Home: index.md
+
+  - Company:
+      - Overview: 00-company/index.md
+      - Mission: 00-company/mission.md
+      - Vision: 00-company/vision.md
+      - Values: 00-company/values.md
+      - Brand: 00-company/brand.md
+
+  - Curriculum:
+      - Overview: 01-curriculum/index.md
+      - Learning Levels: 01-curriculum/learning-levels.md
+      - Student Journey: 01-curriculum/student-journey.md
+      - Certification: 01-curriculum/certification.md
+
+  - Schools:
+      - Overview: 02-schools/index.md
+      - Computing: 02-schools/school-of-computing.md
+      - Programming: 02-schools/school-of-programming.md
+      - Software Engineering: 02-schools/school-of-software-engineering.md
+      - Artificial Intelligence: 02-schools/school-of-ai.md
+      - Robotics: 02-schools/school-of-robotics.md
+      - Career Development: 02-schools/school-of-career.md
