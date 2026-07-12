@@ -38,55 +38,66 @@ markdown_extensions:
       alternate_style: true
 
 nav:
-  - Home: index.md
+    - Home: index.md
 
-  - Company:
+    - Company:
       - Overview: 00-company/index.md
+      - Mission: 00-company/mission.md
+      - Vision: 00-company/vision.md
+      - Values: 00-company/values.md
+      - Brand: 00-company/brand.md
+      - Teaching Philosophy: 00-company/teaching-philosophy.md
+      - Learning Philosophy: 00-company/learning-philosophy.md
+      - Quality Standards: 00-company/quality-standards.md
+      - Roadmap: 00-company/roadmap.md
 
-  - Curriculum:
+    - Curriculum:
       - Overview: 01-curriculum/index.md
 
-  - Schools:
+    - Schools:
       - Overview: 02-schools/index.md
 
-  - Programs:
+    - Programs:
       - Overview: 03-programs/index.md
 
-  - Courses:
+    - Courses:
       - Overview: 04-courses/index.md
 
-  - Modules:
+    - Modules:
       - Overview: 05-modules/index.md
 
-  - Lessons:
+    - Lessons:
       - Overview: 06-lessons/index.md
 
-  - Projects:
+    - Projects:
       - Overview: 07-projects/index.md
 
-  - Assessments:
+    - Assessments:
       - Overview: 08-assessments/index.md
 
-  - YouTube:
+    - YouTube:
       - Overview: 09-youtube/index.md
 
-  - Website:
+    - Website:
       - Overview: 10-website/index.md
 
-  - Business:
+    - Business:
       - Overview: 11-business/index.md
 
-  - Marketing:
+    - Marketing:
       - Overview: 12-marketing/index.md
 
-  - Operations:
+    - Operations:
       - Overview: 13-operations/index.md
 
-  - SOPs:
+    - SOPs:
       - Overview: 14-sops/index.md
 
-  - Resources:
+    - Resources:
       - Overview: 15-resources/index.md
 
-  - Templates:
+    - Templates:
       - Overview: 16-templates/index.md
+
+    - Appendix:
+      - Overview: 17-appendix/index.md  
