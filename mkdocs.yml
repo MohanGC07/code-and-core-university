@@ -42,22 +42,51 @@ nav:
 
   - Company:
       - Overview: 00-company/index.md
-      - Mission: 00-company/mission.md
-      - Vision: 00-company/vision.md
-      - Values: 00-company/values.md
-      - Brand: 00-company/brand.md
 
   - Curriculum:
       - Overview: 01-curriculum/index.md
-      - Learning Levels: 01-curriculum/learning-levels.md
-      - Student Journey: 01-curriculum/student-journey.md
-      - Certification: 01-curriculum/certification.md
 
   - Schools:
       - Overview: 02-schools/index.md
-      - Computing: 02-schools/school-of-computing.md
-      - Programming: 02-schools/school-of-programming.md
-      - Software Engineering: 02-schools/school-of-software-engineering.md
-      - Artificial Intelligence: 02-schools/school-of-ai.md
-      - Robotics: 02-schools/school-of-robotics.md
-      - Career Development: 02-schools/school-of-career.md
+
+  - Programs:
+      - Overview: 03-programs/index.md
+
+  - Courses:
+      - Overview: 04-courses/index.md
+
+  - Modules:
+      - Overview: 05-modules/index.md
+
+  - Lessons:
+      - Overview: 06-lessons/index.md
+
+  - Projects:
+      - Overview: 07-projects/index.md
+
+  - Assessments:
+      - Overview: 08-assessments/index.md
+
+  - YouTube:
+      - Overview: 09-youtube/index.md
+
+  - Website:
+      - Overview: 10-website/index.md
+
+  - Business:
+      - Overview: 11-business/index.md
+
+  - Marketing:
+      - Overview: 12-marketing/index.md
+
+  - Operations:
+      - Overview: 13-operations/index.md
+
+  - SOPs:
+      - Overview: 14-sops/index.md
+
+  - Resources:
+      - Overview: 15-resources/index.md
+
+  - Templates:
+      - Overview: 16-templates/index.md
