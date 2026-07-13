@@ -56,6 +56,7 @@ nav:
 
     - Operations:
       - Documentation Standards: 02-operations/documentation-standards.md
+      - Version Control & Git Workflow: 02-operations/version-control-git-workflow.md
 
     - Curriculum:
       - Overview: 01-curriculum/index.md
