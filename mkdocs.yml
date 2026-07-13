@@ -54,6 +54,9 @@ nav:
       - Operational Standards: 00-company/operational-standards.md
       - Roadmap: 00-company/roadmap.md
 
+    - Operations:
+      - Documentation Standards: 02-operations/documentation-standards.md
+
     - Curriculum:
       - Overview: 01-curriculum/index.md
 
