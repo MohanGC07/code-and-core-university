@@ -57,6 +57,8 @@ nav:
     - Operations:
       - Documentation Standards: 02-operations/documentation-standards.md
       - Version Control & Git Workflow: 02-operations/version-control-git-workflow.md
+      - ADRS:
+        - Architecture Decision Records: 02-operations/adrs/architecture-decision-records.md
 
     - Curriculum:
       - Overview: 01-curriculum/index.md
