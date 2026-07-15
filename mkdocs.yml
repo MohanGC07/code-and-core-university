@@ -61,6 +61,9 @@ nav:
       - Quality Assurance Standards: 02-operations/quality-assurance-standards.md
       - Risk Management Standards: 02-operations/risk-management-standards.md
       - Knowledge Management Standards: 02-operations/knowledge-management-standards.md
+      - Research & Innovation Standards: 02-operations/research-innovation-standards.md
+      - Data & AI Governance Standards: 02-operations/data-ai-governance-standards.md
+      
       - Architecture Decisions:
         - Overview: 02-operations/adrs/index.md
         - ADR-001 Documentation First: 02-operations/adrs/ADR-001-documentation-first.md
