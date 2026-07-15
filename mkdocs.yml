@@ -57,8 +57,20 @@ nav:
     - Operations:
       - Documentation Standards: 02-operations/documentation-standards.md
       - Version Control & Git Workflow: 02-operations/version-control-git-workflow.md
-      - ADRS:
-        - Architecture Decision Records: 02-operations/adrs/architecture-decision-records.md
+      - Architecture Decision Records: 02-operations/architecture-decision-records.md
+      - Architecture Decisions:
+        - Overview: 02-operations/adrs/index.md
+        - ADR-001 Documentation First: 02-operations/adrs/ADR-001-documentation-first.md
+        - ADR-002 Domain-Based Documentation Architecture: 02-operations/adrs/ADR-002-domain-based-documentation-architecture.md
+        - ADR-003 Documentation Quality Gate: 02-operations/adrs/ADR-003-documentation-quality-gate.md
+        - ADR-004 Documentation as Organizational Knowledge: 02-operations/adrs/ADR-004-documentation-as-organizational-knowledge.md
+        - ADR-005 Audience-First Documentation: 02-operations/adrs/ADR-005-audience-first-documentation.md
+        - ADR-006 Professional, Clear & Educational Writing: 02-operations/adrs/ADR-006-writing-style-standard.md
+        - ADR-007 Free & Open-Source First Strategy: 02-operations/adrs/ADR-007-open-source-first.md
+        - ADR-008 MkDocs Material as Documentation Platform: 02-operations/adrs/ADR-008-mkdocs-material.md
+        - ADR-009 FastAPI + Next.js Platform Architecture: 02-operations/adrs/ADR-009-platform-architecture.md
+        - ADR-010 Continuous Documentation Improvement: 02-operations/adrs/ADR-010-continuous-documentation-improvement.md
+
 
     - Curriculum:
       - Overview: 01-curriculum/index.md
