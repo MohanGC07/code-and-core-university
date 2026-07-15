@@ -58,6 +58,7 @@ nav:
       - Documentation Standards: 02-operations/documentation-standards.md
       - Version Control & Git Workflow: 02-operations/version-control-git-workflow.md
       - Architecture Decision Records: 02-operations/architecture-decision-records.md
+      - Quality Assurance Standards: 02-operations/quality-assurance-standards.md
       - Architecture Decisions:
         - Overview: 02-operations/adrs/index.md
         - ADR-001 Documentation First: 02-operations/adrs/ADR-001-documentation-first.md
