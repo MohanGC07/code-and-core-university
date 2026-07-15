@@ -64,6 +64,7 @@ nav:
       - Research & Innovation Standards: 02-operations/research-innovation-standards.md
       - Data & AI Governance Standards: 02-operations/data-ai-governance-standards.md
       - Security & Privacy Standards: 02-operations/security-privacy-standards.md
+      - Continuous Improvement Framework: 02-operations/continuous-improvement-framework.md
       - Architecture Decisions:
         - Overview: 02-operations/adrs/index.md
         - ADR-001 Documentation First: 02-operations/adrs/ADR-001-documentation-first.md
