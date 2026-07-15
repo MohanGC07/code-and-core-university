@@ -78,7 +78,8 @@ nav:
         - ADR-009 FastAPI + Next.js Platform Architecture: 02-operations/adrs/ADR-009-platform-architecture.md
         - ADR-010 Continuous Documentation Improvement: 02-operations/adrs/ADR-010-continuous-documentation-improvement.md
 
-
+    - Platform:
+      - Architecture Overview: 03-platform/architecture-overview.md
     - Curriculum:
       - Overview: 01-curriculum/index.md
 
