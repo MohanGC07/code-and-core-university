@@ -60,6 +60,7 @@ nav:
       - Architecture Decision Records: 02-operations/architecture-decision-records.md
       - Quality Assurance Standards: 02-operations/quality-assurance-standards.md
       - Risk Management Standards: 02-operations/risk-management-standards.md
+      - Knowledge Management Standards: 02-operations/knowledge-management-standards.md
       - Architecture Decisions:
         - Overview: 02-operations/adrs/index.md
         - ADR-001 Documentation First: 02-operations/adrs/ADR-001-documentation-first.md
