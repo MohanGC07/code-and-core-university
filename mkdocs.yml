@@ -82,6 +82,7 @@ nav:
       - Architecture Overview: 03-platform/architecture-overview.md
       - System Architecture: 03-platform/system-architecture.md
       - Frontend Architecture: 03-platform/frontend-architecture.md
+      - Backend Architecture: 03-platform/backend-architecture.md
     - Curriculum:
       - Overview: 01-curriculum/index.md
 
