@@ -95,8 +95,20 @@ nav:
       - Curriculum Matrix: 01-curriculum/curriculum-matrix.md
       - Academic Standards: 01-curriculum/academic-standards.md
       - Grade 5:
-          - Learning Blueprint: 01-curriculum/grade-05/overview.md
-          - Curriculum Overview: 01-curriculum/grade-05/index.md
+        - Overview: 01-curriculum/grade-05/index.md
+        - Learning Outcomes: 01-curriculum/grade-05/learning-outcomes.md
+        - Yearly Plan: 01-curriculum/grade-05/yearly-plan.md
+        - Semester 1: 01-curriculum/grade-05/semester-1.md
+        - Semester 2: 01-curriculum/grade-05/semester-2.md
+        - Weekly Framework: 01-curriculum/grade-05/weekly-framework.md
+        - Lesson Template: 01-curriculum/grade-05/lesson-template.md
+        - Projects: 01-curriculum/grade-05/projects.md
+        - Assessments: 01-curriculum/grade-05/assessments.md
+        - Portfolio: 01-curriculum/grade-05/portfolio.md
+        - Teaching Guide: 01-curriculum/grade-05/teaching-guide.md
+        - Parent Guide: 01-curriculum/grade-05/parent-guide.md
+        - Resources: 01-curriculum/grade-05/resources.md
+        - Glossary: 01-curriculum/grade-05/glossary.md
 
     - Schools:
       - Overview: 02-schools/index.md
