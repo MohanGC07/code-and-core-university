@@ -110,6 +110,22 @@ nav:
         - Resources: 01-curriculum/grade-05/resources.md
         - Glossary: 01-curriculum/grade-05/glossary.md
 
+      - Grade 6:
+        - Curriculum Overview: 01-curriculum/grade-06/index.md
+        - Learning Outcomes: 01-curriculum/grade-06/learning-outcomes.md
+        - Yearly Plan: 01-curriculum/grade-06/yearly-plan.md
+        - Semester 1: 01-curriculum/grade-06/semester-1.md
+        - Semester 2: 01-curriculum/grade-06/semester-2.md
+        - Weekly Framework: 01-curriculum/grade-06/weekly-framework.md
+        - Lesson Template: 01-curriculum/grade-06/lesson-template.md
+        - Projects: 01-curriculum/grade-06/projects.md
+        - Assessments: 01-curriculum/grade-06/assessments.md
+        - Portfolio: 01-curriculum/grade-06/portfolio.md
+        - Teaching Guide: 01-curriculum/grade-06/teaching-guide.md
+        - Parent Guide: 01-curriculum/grade-06/parent-guide.md
+        - Resources: 01-curriculum/grade-06/resources.md
+        - Glossary: 01-curriculum/grade-06/glossary.md  
+
     - Schools:
       - Overview: 02-schools/index.md
       - Academic Framework: 02-schools/academic-framework.md
