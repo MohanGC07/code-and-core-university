@@ -124,7 +124,24 @@ nav:
         - Teaching Guide: 01-curriculum/grade-06/teaching-guide.md
         - Parent Guide: 01-curriculum/grade-06/parent-guide.md
         - Resources: 01-curriculum/grade-06/resources.md
-        - Glossary: 01-curriculum/grade-06/glossary.md  
+        - Glossary: 01-curriculum/grade-06/glossary.md
+
+
+      - Grade 7:
+        - Overview: docs/01-curriculum/grade-07/index.md
+        - Learning Outcomes: docs/01-curriculum/grade-07/learning-outcomes.md
+        - Yearly Learning Plan: docs/01-curriculum/grade-07/yearly-plan.md
+        - Semester 1: docs/01-curriculum/grade-07/semester-1.md
+        - Semester 2: docs/01-curriculum/grade-07/semester-2.md
+        - Weekly Learning Framework: docs/01-curriculum/grade-07/weekly-framework.md
+        - Lesson Plan Template: docs/01-curriculum/grade-07/lesson-template.md
+        - Projects & Innovation Framework: docs/01-curriculum/grade-07/projects.md
+        - Assessment Framework: docs/01-curriculum/grade-07/assessments.md
+        - Student Portfolio Guide: docs/01-curriculum/grade-07/portfolio.md
+        - Teaching Guide: docs/01-curriculum/grade-07/teaching-guide.md
+        - Parent Guide: docs/01-curriculum/grade-07/parent-guide.md
+        - Learning Resources: docs/01-curriculum/grade-07/resources.md
+        - Glossary: docs/01-curriculum/grade-07/glossary.md     
 
     - Schools:
       - Overview: 02-schools/index.md
