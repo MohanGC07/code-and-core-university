@@ -84,6 +84,7 @@ nav:
       - Frontend Architecture: 03-platform/frontend-architecture.md
       - Backend Architecture: 03-platform/backend-architecture.md
       - AI Architecture: 03-platform/ai-architecture.md
+      - Data Architecture: 03-platform/data-architecture.md
     - Curriculum:
       - Overview: 01-curriculum/index.md
 
