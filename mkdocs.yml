@@ -90,6 +90,13 @@ nav:
 
     - Schools:
       - Overview: 02-schools/index.md
+      - Academic Framework: 02-schools/academic-framework.md
+      - School of Programming: 02-schools/school-of-programming.md
+      - School of Computing: 02-schools/school-of-computing.md
+      - School of Software Engineering: 02-schools/school-of-software-engineering.md
+      - School of Artificial Intelligence: 02-schools/school-of-ai.md
+      - School of Robotics: 02-schools/school-of-robotics.md
+      - School of Career Development: 02-schools/school-of-career.md
 
     - Programs:
       - Overview: 03-programs/index.md
