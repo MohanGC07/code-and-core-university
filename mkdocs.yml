@@ -141,7 +141,23 @@ nav:
         - Teaching Guide: docs/01-curriculum/grade-07/teaching-guide.md
         - Parent Guide: docs/01-curriculum/grade-07/parent-guide.md
         - Learning Resources: docs/01-curriculum/grade-07/resources.md
-        - Glossary: docs/01-curriculum/grade-07/glossary.md     
+        - Glossary: docs/01-curriculum/grade-07/glossary.md    
+
+      - Grade 8:
+        - Overview: docs/01-curriculum/grade-08/overview.md
+        - Learning Outcomes: docs/01-curriculum/grade-08/learning-outcomes.md
+        - Yearly Learning Plan: docs/01-curriculum/grade-08/yearly-plan.md
+        - Semester 1: docs/01-curriculum/grade-08/semester-1.md
+        - Semester 2: docs/01-curriculum/grade-08/semester-2.md
+        - Weekly Learning Framework: docs/01-curriculum/grade-08/weekly-framework.md
+        - Lesson Plan Template: docs/01-curriculum/grade-08/lesson-template.md
+        - Projects & Innovation Framework: docs/01-curriculum/grade-08/projects.md
+        - Assessment Framework: docs/01-curriculum/grade-08/assessments.md
+        - Student Portfolio Guide: docs/01-curriculum/grade-08/portfolio.md
+        - Teaching Guide: docs/01-curriculum/grade-08/teaching-guide.md
+        - Parent Guide: docs/01-curriculum/grade-08/parent-guide.md
+        - Learning Resources & Laboratory Standards: docs/01-curriculum/grade-08/resources.md
+        - Glossary: docs/01-curriculum/grade-08/glossary.md   
 
     - Schools:
       - Overview: 02-schools/index.md
